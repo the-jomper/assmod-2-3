@@ -180,6 +180,10 @@ function ASS_GetRankingTable()
 	return PlayerRankings
 end
 
+function ASS_SetRankingTable(rt)
+	PlayerRankings = rt
+end
+
 function ASS_LogAction( PLAYER, ACL, ACTION )
 	Msg( PLAYER:Nick() .. " -> " .. ACTION .. "\n")
 	
