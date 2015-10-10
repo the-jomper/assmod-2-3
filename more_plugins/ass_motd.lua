@@ -49,9 +49,7 @@ if (CLIENT) then
 						3. Have fun!<br>
 					<br>
 					<h2>Admins:</h2>
-					[ASS] | Moby Dick<br>
-					[ASS] | Sucka Dick<br>
-					[ASS] | Something else about Dick<br>
+					[ASS] | Cpt.SwaggaLicious =<ERROR>=<br>
 				<div style="width: 100%; text-align: center; margin: 10px; font-weight: bold;">- Server Owner</div>
 			</div>
 		</div>
